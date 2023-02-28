@@ -5,6 +5,13 @@
 - In the Pre-training task, we implement all codes in both **Pytorch** and **PaddlePaddle** version (You can **pretrain & finetune** in anyone of these two frameworks.).   
 - In the Unbiased LTR task, we implement codes in **Pytorch** version. 
 
+## Paper released
+Please refer to our paper for details in this competition:
+- Task1 Unbiased Learning to rank: [Multi-Feature Integration for Perception-Dependent
+Examination-Bias Estimation](https://arxiv.org/pdf/2302.13756.pdf)
+- Task2 Pretraining for web search: [Pretraining De-Biased Language Model with Large-scale Click
+Logs for Document Ranking](https://arxiv.org/pdf/2302.13498.pdf)
+-----------
 **Below is details for Pre-training task. For Unbiased LTR task, see [README.md](./pytorch_unbias/README.md) for details.**
 ## Quick Links
 - [Method Overview](#method-overview)
