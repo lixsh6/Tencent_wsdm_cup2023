@@ -4,6 +4,7 @@
 - This repo contains the source code of our competition in WSDM Cup 2023: [Pre-training for Web Search](https://aistudio.baidu.com/aistudio/competition/detail/536/0/leaderboard) and [Unbiased Learning for Web Search](https://aistudio.baidu.com/aistudio/competition/detail/534/0/leaderboard).
 - In the Pre-training task, we implement all codes in both **Pytorch** and **PaddlePaddle** version (You can **pretrain & finetune** in anyone of these two frameworks.).   
 - In the Unbiased LTR task, we implement codes in **Pytorch** version. 
+- All checkpoints are available here: [Download](https://huggingface.co/lixsh6/wsdm23_pretrain/tree/main)
 
 ## Paper released
 Please refer to our paper for details in this competition:
@@ -11,7 +12,8 @@ Please refer to our paper for details in this competition:
 Examination-Bias Estimation](https://arxiv.org/pdf/2302.13756.pdf)
 - Task2 Pretraining for web search: [Pretraining De-Biased Language Model with Large-scale Click
 Logs for Document Ranking](https://arxiv.org/pdf/2302.13498.pdf)
------------
+
+
 **Below is details for Pre-training task. For Unbiased LTR task, see [README.md](./pytorch_unbias/README.md) for details.**
 ## Quick Links
 - [Method Overview](#method-overview)
