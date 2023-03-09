@@ -58,7 +58,7 @@ We use [lambdamart](https://medium.datadriveninvestor.com/a-practical-guide-to-l
 - TF-IDF score
 
 #### BERT features:
-##### 1) Model details: [Download](https://huggingface.co/lixsh6/wsdm23_pretrain/tree/main)
+##### 1) Model details: [Checkpoints Download Here](https://huggingface.co/lixsh6/wsdm23_pretrain/tree/main)
 | Index| Model Flag    | Method | Pretrain step | Finetune step | DCG on leaderboard | 
 | --------| -------- | ------- |---------------| ------- | ------- | 
 | 1| large_group2_wwm_from_unw4625K | M1 | 1700K         | 5130 | 11.96214 |
